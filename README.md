@@ -38,6 +38,33 @@ The visualization includes several types of analysis such as:
 * Performance analysis based on different payment methods.
 * Rating distribution.
 
+## Tools and Libraries Used
+SQL for data querying and manipulation.
+Visualization tools Tableau.
+
+## How to Use This Project
+
+1. **Database Setup**:
+    * Create the database and table by running the provided SQL script.
+    * Import the data from the CSV file into the `sales` table.
+
+2. **Running Analysis**:
+    * Execute the SQL queries provided in the script for feature engineering and exploratory data analysis.
+
+3. **Visualization**:
+    * Use the visualization scripts to generate insights from the data.
+## Tableau Visualization
+![image](https://github.com/user-attachments/assets/9cd190ff-198a-4bc5-a002-b4b282e59930)
+
+## Conclusion
+This project provides a comprehensive analysis of Walmart sales data, enabling better understanding of sales patterns and customer behavior. The visualizations offer actionable insights that can help in decision-making processes.
+
+
+
+
+
+
+
 
 
 
