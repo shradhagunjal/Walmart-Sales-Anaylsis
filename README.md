@@ -1,1 +1,1 @@
-# Walmart-Sales-Anaylsis
+# Walmart Sales Data Visualization
