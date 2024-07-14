@@ -1,4 +1,5 @@
 # Walmart Sales Data Visualization
+## Tableau Dashboard link - https://public.tableau.com/shared/FFY8B4BXB?:display_count=n&:origin=viz_share_link
 ## Project Overview
 This project involves the analysis and visualization of Walmart sales data. The goal is to derive insights from the sales data through various data visualization techniques.
 ## Database and Table Structure
